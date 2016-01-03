@@ -1,0 +1,14 @@
+﻿Build started 03/01/2016 22:27:25.
+     1>Project "D:\GoogleDrive\2016_GP_Lectures\SP2_C++Programming\SourceCode\Cpp7_Memory\Cpp7_Memory\Cpp7_Memory.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GoogleDrive\2016_GP_Lectures\SP2_C++Programming\SourceCode\Cpp7_Memory\Debug\Cpp7_Memory.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\GoogleDrive\2016_GP_Lectures\SP2_C++Programming\SourceCode\Cpp7_Memory\Debug\Cpp7_Memory.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GoogleDrive\2016_GP_Lectures\SP2_C++Programming\SourceCode\Cpp7_Memory\Debug\Cpp7_Memory.lib" /MACHINE:X86 Debug\source.obj
+         Debug\worldNew.obj
+         Cpp7_Memory.vcxproj -> D:\GoogleDrive\2016_GP_Lectures\SP2_C++Programming\SourceCode\Cpp7_Memory\Debug\Cpp7_Memory.exe
+     1>Done Building Project "D:\GoogleDrive\2016_GP_Lectures\SP2_C++Programming\SourceCode\Cpp7_Memory\Cpp7_Memory\Cpp7_Memory.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03

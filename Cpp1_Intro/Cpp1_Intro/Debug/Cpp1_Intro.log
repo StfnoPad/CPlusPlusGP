@@ -1,0 +1,39 @@
+﻿Build started 26/11/2015 13:29:44.
+     1>Project "C:\GoogleDrive\2016_GP_Lectures\L2_C++Programming\SourceCode\Cpp1_Intro\Cpp1_Intro\Cpp1_Intro.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt intro.cpp
+         intro.cpp
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(17): error C2039: 'cout': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(17): error C2065: 'cout': undeclared identifier
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(17): error C2039: 'endl': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(17): error C2065: 'endl': undeclared identifier
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(22): error C2039: 'cout': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(22): error C2065: 'cout': undeclared identifier
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(22): error C2039: 'endl': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(22): error C2065: 'endl': undeclared identifier
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(23): error C2039: 'cout': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(23): error C2065: 'cout': undeclared identifier
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(23): error C2039: 'endl': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(23): error C2065: 'endl': undeclared identifier
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(24): error C2039: 'cin': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(24): error C2065: 'cin': undeclared identifier
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(27): error C2039: 'cout': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(27): error C2065: 'cout': undeclared identifier
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(27): error C2039: 'endl': is not a member of 'std'
+         c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+     1>c:\googledrive\2016_gp_lectures\l2_c++programming\sourcecode\cpp1_intro\cpp1_intro\intro.cpp(27): error C2065: 'endl': undeclared identifier
+     1>Done Building Project "C:\GoogleDrive\2016_GP_Lectures\L2_C++Programming\SourceCode\Cpp1_Intro\Cpp1_Intro\Cpp1_Intro.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.83
